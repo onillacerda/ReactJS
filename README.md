@@ -1,2 +1,3 @@
-# aula_bootstrap
-utilizando bootstrap
+# ReactJS
+Projeto de gerenciador de vídeos utilizando o ReactJS
+
